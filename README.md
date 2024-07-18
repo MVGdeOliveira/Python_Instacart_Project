@@ -4,6 +4,8 @@
 
 This is a fictive project where the data analyst should provide insights based on sales pattern for the stakeholders of Instacart. Instarcart is an online grocery store available as an app.
 
+Task is to perform data cleaning and quality check, do exploratory analysis and provide insights for a better segmentation of the data.
+
 ### Key questions worked on the scripts
 
 ● What are the busiest days of the week and hours of the day (i.e., the days and times with the most orders)? In order to schedule ads at
@@ -18,6 +20,6 @@ times when there are fewer orders.
 
 ## Data Source and Software
 
-The open-source dataset was provided by CareerFoundry as a part of the course *Data Analytics*
+The open-source dataset was provided by CareerFoundry as a part of the course *Data Analytics* .
 
-The scripts were written in Jupyter Notebook
+The scripts were written in Python using Jupyter Notebook (Anaconda).
